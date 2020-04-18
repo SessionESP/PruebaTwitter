@@ -1,0 +1,7 @@
+org.prueba.twitter
+org.prueba.twitter.controlador
+org.prueba.twitter.entidades
+org.prueba.twitter.repositorio
+org.prueba.twitter.servicio
+org.prueba.twitter.servicio.impl
+org.prueba.twitter.utilidades
